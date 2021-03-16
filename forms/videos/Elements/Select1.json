@@ -35,7 +35,7 @@
   "multiSelect": "",
   "name": "",
   "onchange": "Select1.onchange()",
-  "onclick": "",
+  "onclick": "Select1.onclick()",
   "oncopy": "",
   "oncut": "",
   "onfocusin": "",
