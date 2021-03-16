@@ -43,7 +43,7 @@
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "center",
-  "height": 460,
+  "height": "420",
   "id": "newControls",
   "language": "JavaScript",
   "left": "0",
@@ -61,5 +61,5 @@
   "style": "",
   "theme": "",
   "top": "0",
-  "width": 320
+  "width": "320"
 }
