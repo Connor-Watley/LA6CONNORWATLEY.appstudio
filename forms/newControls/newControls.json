@@ -16,7 +16,7 @@
         "forms",
         "newControls",
         "Elements",
-        "YouTube1.json"
+        "Jumbotron1.json"
       ]
     },
     {
@@ -25,7 +25,16 @@
         "forms",
         "newControls",
         "Elements",
-        "Select1.json"
+        "Button2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "Label2.json"
       ]
     }
   ],
