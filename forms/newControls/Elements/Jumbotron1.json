@@ -1,7 +1,7 @@
 {
   "!type": "Jumbotron_bs4",
   "ChangeForm": "",
-  "appearance": " btn-secondary",
+  "appearance": " btn-info",
   "backgroundColor": "",
   "badge": "",
   "badgeAppearance": " badge-info",
