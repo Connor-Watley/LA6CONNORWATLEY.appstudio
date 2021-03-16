@@ -5,7 +5,8 @@ Jumbotron1.onclick=function(){
   ChangeForm(videos);
 }
 
-button2.onclick=function(){
-    button2.backgroundColor = black
+
+Button2.onclick=function(){
+    Jumbotron1.appearance = danger;
     label2.value = "the button turned black"
 }
