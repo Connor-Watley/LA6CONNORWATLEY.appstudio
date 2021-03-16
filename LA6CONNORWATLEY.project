@@ -41,6 +41,14 @@
             "newControls",
             "newControls.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "videos",
+            "videos.json"
+          ]
         }
       ],
       "configxml": null,
