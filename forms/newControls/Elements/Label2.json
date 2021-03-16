@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "Label2",
   "labelStyle": "text",
-  "left": "40",
+  "left": 30,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": "229",
-  "value": "Label",
-  "width": 237
+  "top": 292,
+  "value": "This button makes the button black",
+  "width": "auto"
 }
