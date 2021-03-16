@@ -20,4 +20,5 @@ clear.onclick=function(){
   label2.value = ""
   n1.value= ""
   n2.value= ""
+  nameINPT = ""
 }
