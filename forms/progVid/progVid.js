@@ -7,6 +7,8 @@ Button4.onclick=function(){
    ChangeForm(newControls)
 }
 
-Switch1.onclick=function(){
-  YouTube2.autoplay = True; 
+
+
+Button5.onclick=function(){
+  ChangeForm(dogVid)
 }
