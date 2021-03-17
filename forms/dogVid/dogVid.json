@@ -45,15 +45,6 @@
         "Elements",
         "Alert1.json"
       ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "dogVid",
-        "Elements",
-        "Button8.json"
-      ]
     }
   ],
   "class": "",
