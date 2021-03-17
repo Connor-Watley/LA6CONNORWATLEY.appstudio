@@ -46,8 +46,16 @@
           "!type": "External",
           "file": [
             "forms",
-            "videos",
-            "videos.json"
+            "progVid",
+            "progVid.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "dogVid",
+            "dogVid.json"
           ]
         }
       ],
