@@ -6,3 +6,8 @@ Button6.onclick=function(){
 Button7.onclick=function(){
   ChangForm(newControls)
 }
+
+Button8.onclick=function(){
+  Alert1.hidden = False;
+  
+}
