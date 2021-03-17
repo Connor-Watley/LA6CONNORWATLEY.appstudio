@@ -36,6 +36,15 @@
         "Elements",
         "Label2.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "Button3.json"
+      ]
     }
   ],
   "class": "",
