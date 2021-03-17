@@ -7,6 +7,7 @@ Jumbotron1.onclick=function(){
 
 
 Button2.onclick=function(){
-    Jumbotron1.appearance = danger;
-    label2.value = "the button turned black"
+    Label2.
+    Label2.value = "the button turned this label black"
 }
+
