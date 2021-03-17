@@ -19,13 +19,13 @@
   "hidden": "",
   "id": "Label2",
   "labelStyle": "text",
-  "left": 30,
+  "left": 49,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "Label2.onclick()",
+  "onclick": "",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 292,
-  "value": "This button makes the button black",
-  "width": "auto"
+  "top": 352,
+  "value": "We have a Jumbotron that is the homepage for cycling through videos",
+  "width": 226
 }
