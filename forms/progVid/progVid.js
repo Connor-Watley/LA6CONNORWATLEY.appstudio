@@ -11,4 +11,5 @@ Button4.onclick=function(){
 
 Button5.onclick=function(){
   ChangeForm(dogVid)
+  
 }
