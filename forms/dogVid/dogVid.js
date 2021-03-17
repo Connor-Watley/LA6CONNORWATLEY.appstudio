@@ -4,10 +4,9 @@ Button6.onclick=function(){
 }
 
 Button7.onclick=function(){
-  ChangForm(newControls)
+  ChangeForm(newControls)
+  Label2.value= "you have seen all of our videos and have arrived at the homepage"
 }
 
-Button8.onclick=function(){
-  Alert1.hidden = False;
-  
-}
+
+
