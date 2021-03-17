@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "white",
+  "background": "black",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -25,25 +25,7 @@
         "forms",
         "newControls",
         "Elements",
-        "Button2.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "newControls",
-        "Elements",
         "Label2.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "newControls",
-        "Elements",
-        "Button3.json"
       ]
     }
   ],
